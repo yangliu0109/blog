@@ -1,0 +1,11 @@
+{
+  "name": "blog",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.7.8",
+    "axios": "0.24.0",
+    "nuxt": "^2.6.5"
+  }
+}
